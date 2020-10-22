@@ -1,0 +1,6 @@
+Task 01: 
+a) Continuously display the temperature of the device (internal temperature sensor) on the terminalusing a timer interrupt every 0.5 secs, 
+b) Using PF4button interrupt toggle all (RGB) LEDs.
+(PS: your program will have two interrupts)
+
+Video Link: https://youtu.be/-lvkrEkpGHY

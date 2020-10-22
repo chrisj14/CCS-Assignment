@@ -1,0 +1,3 @@
+Task: Continue with Task 02, implement the temperature-memory transfer and memory-UART transfer using uDMA. 
+
+Video Link: https://youtu.be/cwDEEj2b8To

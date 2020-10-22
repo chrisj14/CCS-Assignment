@@ -1,0 +1,9 @@
+Task 02: Continue with Task 01, develop an user interface using UART to perform the following: Enter the cmd: 
+R: Red LED, 
+G: Green LED, 
+B: Blue LED, 
+T: Temperature, 
+S: status of the LEDs.
+Based on the command (cmd) the program should turn ON Red LED when R is entered in the terminal, etc. Command of ‘r’ will turn off the Red LED.’T’ reads Temperature in Centigrade, and ‘t’ read Temperature in Fahrenheit. ‘S’ read status of the RGB LEDs. 
+
+Video Link: https://youtu.be/cwDEEj2b8To
